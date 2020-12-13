@@ -1,0 +1,35 @@
+{
+  "name": "dontshoot-custom-server",
+  "version": "1.0.0",
+  "description": "Custom server for Dont Shoot - The Messenger",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtpietrzak/dontshoot-custom-server.git"
+  },
+  "keywords": [
+    "server",
+    "dontshoot",
+    "dont",
+    "shoot",
+    "messenger",
+    "server"
+  ],
+  "author": "David Pietrzak",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto-js": "^4.0.0",
+    "expo-server-sdk": "^3.6.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "node-fetch": "^2.6.1"
+  },
+  "bugs": {
+    "url": "https://github.com/dtpietrzak/dontshoot-custom-server/issues"
+  },
+  "homepage": "https://github.com/dtpietrzak/dontshoot-custom-server#readme"
+}
