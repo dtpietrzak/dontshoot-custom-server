@@ -6,10 +6,6 @@
   "scripts": {
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dtpietrzak/dontshoot-custom-server.git"
-  },
   "keywords": [
     "dontshoot",
     "dont",
