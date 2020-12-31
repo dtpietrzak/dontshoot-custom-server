@@ -13,5 +13,5 @@ exports._0x3f07OP = {
     "_0x857S78": "asdfasdf",
     "_0x920G46": "asdfasdf",
 };
-exports.SERVER_ADDRESS = 'your_server_address_or_ip';
-exports.SERVER_SECURITY = 'high';
+exports.SERVER_ADDRESS = 'your_domain_or_ip';
+exports.SERVER_SECURITY = 'medium';
