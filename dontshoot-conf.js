@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.SERVER_ADDRESS = exports._0x3f07OP = void 0;
+exports.SERVER_SECURITY = exports.SERVER_ADDRESS = exports._0x3f07OP = void 0;
 exports._0x3f07OP = {
     "_0x5d6Xa4": "asdfasdf",
     "_0x4d1E54": "asdfasdf",
@@ -13,4 +13,5 @@ exports._0x3f07OP = {
     "_0x857S78": "asdfasdf",
     "_0x920G46": "asdfasdf",
 };
-exports.SERVER_ADDRESS = 'your_address_or_ip';
+exports.SERVER_ADDRESS = 'your_server_address_or_ip';
+exports.SERVER_SECURITY = 'high';
