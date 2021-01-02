@@ -4,7 +4,9 @@
   "description": "Custom server for Dont Shoot - The Messenger",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "forever start -a -l /root/dontshoot-custom-server/error.log index.js",
+    "dev": "node index.js",
+    "stop": "forever stopall"
   },
   "keywords": [
     "dontshoot",
